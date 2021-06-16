@@ -1,0 +1,25 @@
+{
+  "name": "github-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/HAN-IL/github-test.git"
+  },
+  "author": "hanil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAN-IL/github-test/issues"
+  },
+  "homepage": "https://github.com/HAN-IL/github-test#readme"
+}
